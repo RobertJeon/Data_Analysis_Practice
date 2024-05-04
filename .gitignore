@@ -1,0 +1,42 @@
+# Directories #
+/build/
+/bin/
+target/
+
+# OS Files #
+.DS_Store
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+
+# Eclipse #
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+local.properties
+/src/main/resources/rebel.xml
+apikey.js
+passwd.py
+secrets.json
+
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+*.__pycache__
+.migrations/*
+Data_Analysis_Practice/01_직장인을_위한_데이터_분석_실무_with_Python/2_Data_Analysis_Basic/files/*
